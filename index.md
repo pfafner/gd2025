@@ -21,7 +21,7 @@ Para aprovechar de mejor manera el curso, es recomendable que los estudiantes es
 ### Office Hours
 <div id='id-office'/>
 
-* Por solicitud del estudiante. También pueden enviar sus dudas por correo electrónico.
+* Por definir. Por solicitud del estudiante. También pueden enviar sus dudas por correo electrónico.
 
 
 # Material del curso
