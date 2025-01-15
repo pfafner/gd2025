@@ -1,9 +1,5 @@
 # Geometría Diferencial 2025
 
-<img src="https://freesvg.org/img/warning2.png" alt="Warning!" width="100">
-
-This site is under construction! 
-
 Este es un curso introductorio de geometría diferencial. El tema central del curso es el estudio de la geometría de curvas y superfícies, así como una breve inicio al estudio de la geometría de variedades. Al final del curso, los estudiantes comprederán completamente, la teoría de las curvas y superfícies, y el desarrollo de la geometría diferencial hasta la mitad el siglo XIX. Introduciremos también algunos conceptos de la geometría de variedades diferenciables y un poco de cálculo sobre variedades. Si el tiempo lo permite, al final del curso se hará una aplicación de cómo la geometría diferencial se utiliza en la teoría de relatividad general. 
 
 Para aprovechar de mejor manera el curso, es recomendable que los estudiantes estén familiarizados con resultados de análisis real (en una y varias variables), topología de espacios métricos, ecuaciones diferenciales, variable compleja y que tengan un dominio hábil de herramientas de álgebra lineal y cálculo.
@@ -29,7 +25,7 @@ Para aprovechar de mejor manera el curso, es recomendable que los estudiantes es
 
 **No.**  | **Fecha**    | **Tópicos**                                                          | **Recursos**
 -------- | ------------ | -------------------------------------------------------------------- |  -------------------------------------
-01       | 13.01.2025   | Introducción al curso. 
+01       | 14.01.2025   | Introducción al curso. Historia de la geometría diferencial. [Aula 01](aulas/Aula01.pdf){:target="_blank"} | 
 
 
 # Seminarios
@@ -43,9 +39,9 @@ En este curso tendremos uno o dos seminarios. Se darán detalles más adelante.
 
 ### Textos:
 
-* [W. Kühnel (2015). *Differential Geometry: Curves - Surfaces - Manifolds*.](http://library.lol/main/53E1F3479CBDF2FB78ADDD478E32BB89){:target="_blank"}
+* [W. Kühnel (2015). *Differential Geometry: Curves - Surfaces - Manifolds*.](https://libgen.li/ads53e1f3479cbdf2fb78addd478e32bb89HXFDNM20){:target="_blank"}
 
-* [M. do Carmo (2016). *Differential Geometry of curves and surfaces*.](http://library.lol/main/31E323C7F16E529A2B0B9355A2FE3E31){:target="_blank"}
+* [M. do Carmo (2018). *Differential Geometry of curves and surfaces*.](https://libgen.li/ads724bef18b14e016e0f3c4826c34da139VM8NBD26){:target="_blank"}
 
 ### Referencias adicionales:
 
