@@ -47,13 +47,13 @@ En este curso tendremos uno o dos seminarios. Se darán detalles más adelante.
 
 ### Referencias adicionales:
 
-* [M. do Carmo (2015). *Geometria Riemanniana*.](http://library.lol/main/5AF1D617DE1FD78BFCC893F386EF19D7){:target="_blank"}
+* [M. do Carmo (2015). *Riemannian Geometry*.](https://libgen.li/ads2a938529e2395b0bc754aaaa3555d03bDYOKNUIG){:target="_blank"}
 
-* [S. Montiel y A. Ros (2009). *Curves and Surfaces*.](http://library.lol/main/0A4400CD07A838BD0667C39248A378CF){:target="_blank"}
+* [S. Montiel y A. Ros (2009). *Curves and Surfaces*.](https://libgen.li/ads5e83ba8d8e78656ca0a52245663faeafAZKH46KI){:target="_blank"}
 
-* [B. O'neill (2006). *Elementary Differential Geometry*.](http://library.lol/main/28060EF7E136181D96ED01F7A5A05E5D){:target="_blank"}
+* [B. O'neill (2006). *Elementary Differential Geometry*.](https://libgen.li/ads28060ef7e136181d96ed01f7a5a05e5dJ3K61MIY){:target="_blank"}
 
-* [M. Spivak (2018). *Calculus on Manifolds: A modern approach*.](http://library.lol/main/EA5FD5AEB32C27C227649EB88448DAC1){:target="_blank"}
+* [M. Spivak (2018). *Calculus on Manifolds: A modern approach*.](https://libgen.li/adsea5fd5aeb32c27c227649eb88448dac1K70DWZ2B){:target="_blank"}
 
 * [M. do Carmo (2000). *Differential Forms and Applications*.](http://library.lol/main/CE7E2584D231805DB923859930650BCF){:target="_blank"}
 
