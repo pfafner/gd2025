@@ -55,9 +55,9 @@ En este curso tendremos uno o dos seminarios. Se darán detalles más adelante.
 
 * [M. Spivak (2018). *Calculus on Manifolds: A modern approach*.](https://libgen.li/adsea5fd5aeb32c27c227649eb88448dac1K70DWZ2B){:target="_blank"}
 
-* [M. do Carmo (2000). *Differential Forms and Applications*.](http://library.lol/main/CE7E2584D231805DB923859930650BCF){:target="_blank"}
+* [M. do Carmo (2000). *Differential Forms and Applications*.](https://libgen.li/adsc205f32c8f131cfbcc3ec133093fa056FUD6VVL9){:target="_blank"}
 
-* [L. Tu (2011). *An Introduction to Manifolds*.](http://library.lol/main/67E1DE09798BBB7A9EC6CB30F67FA582){:target="_blank"}
+* [L. Tu (2011). *An Introduction to Manifolds*.](https://libgen.li/ads67e1de09798bbb7a9ec6cb30f67fa582KWZHBC8Z){:target="_blank"}
 
 * [J. M. Lee (2013). *Introduction to Topological Manifolds*.](http://library.lol/main/E1C4A1720315F49A2BA40F5C9C959430){:target="_blank"}
 
