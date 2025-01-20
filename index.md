@@ -59,7 +59,7 @@ En este curso tendremos uno o dos seminarios. Se darán detalles más adelante.
 
 * [L. Tu (2011). *An Introduction to Manifolds*.](https://libgen.li/ads67e1de09798bbb7a9ec6cb30f67fa582KWZHBC8Z){:target="_blank"}
 
-* [J. M. Lee (2013). *Introduction to Topological Manifolds*.](http://library.lol/main/E1C4A1720315F49A2BA40F5C9C959430){:target="_blank"}
+* [J. M. Lee (2013). *Introduction to Topological Manifolds*.](https://libgen.li/adse1c4a1720315f49a2ba40f5c9c959430CX20PQBP){:target="_blank"}
 
 * [J. M. Lee (2013). *Introduction to Smooth Manifolds*.](http://library.lol/main/00D8D81EDF732351D00BF90D16231216){:target="_blank"}
 
