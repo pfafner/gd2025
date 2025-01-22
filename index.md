@@ -27,7 +27,7 @@ Para aprovechar de mejor manera el curso, es recomendable que los estudiantes es
 -------- | ------------ | -------------------------------------------------------------------- |  -------------------------------------
 01       | 14.01.2025   | Introducción al curso. Historia de la geometría diferencial. [Aula 01](aulas/Aula01.pdf){:target="_blank"} | [(D. J. Struik) Outline of History of Differential Geometry I](lectures/struik1933_I.pdf){:target="_blank"} <br/> [(D. J. Struik) Outline of History of Differential Geometry II](lectures/struik1933_II.pdf){:target="_blank"} 
 02       | 16.01.2025   | Curvas parametrizadas. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"} | 
-03       | 21.01.2025   |   | 
+03       | 21.01.2025   | Difeomorfismos. Parametrización por longitud de arco. [Aula 03](aulas/Aula03.pdf){:target="_blank"} | 
 
 
 # Seminarios
