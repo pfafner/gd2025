@@ -28,7 +28,7 @@ Para aprovechar de mejor manera el curso, es recomendable que los estudiantes es
 01       | 14.01.2025   | Introducción al curso. Historia de la geometría diferencial. [Aula 01](aulas/Aula01.pdf){:target="_blank"} | [(D. J. Struik) Outline of History of Differential Geometry I](lectures/struik1933_I.pdf){:target="_blank"} <br/> [(D. J. Struik) Outline of History of Differential Geometry II](lectures/struik1933_II.pdf){:target="_blank"} 
 02       | 16.01.2025   | Curvas parametrizadas. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Do Carmo, sección 1.2. <br/> Kühnel, sección 2A, pp. 7–11. 
 03       | 21.01.2025   | Difeomorfismos. Parametrización por longitud de arco. [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Do Carmo, sección 1.3. <br/> Kühnel, sección 2A, pp. 7–11. 
-04       | 23.01.2025   | Teoría local de curvas. Curvatura en R^2 y en R^3. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Do Carmo, sección 1.5. <br/> Kühnel, sección 2B. <br/> [toroidal_curve.ggb](code/toroidal_curve.ggb){:target="_blank" 
+04       | 23.01.2025   | Teoría local de curvas. Curvatura en R^2 y en R^3. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Do Carmo, sección 1.5. <br/> Kühnel, sección 2B. <br/> [toroidal_curve.ggb](code/toroidal_curve.ggb){:target="_blank"} 
 05       | 28.01.2025   | Forma canónica local. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Kühnel, secciones 2C y 2D. 
 06       | 30.01.2025   | Transformaciones rígidas en R^n. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} |  
 07       | 30.01.2025   | Teorema Fundamental de la teoría local de Curvas Planas. [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Do Carmo, sección 1.6. <br/> Kühnel, sección 2D, pp. 28–32. 
