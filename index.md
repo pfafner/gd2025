@@ -33,6 +33,7 @@ Para aprovechar de mejor manera el curso, es recomendable que los estudiantes es
 06       | 30.01.2025   | Transformaciones rígidas en R^n. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} |  
 07       | 30.01.2025   | Teorema Fundamental de la teoría local de Curvas Planas. [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Do Carmo, sección 1.6. <br/> Kühnel, sección 2D, pp. 28–32. 
 L1       | 30.01.2025   | Lista 1. **Fecha de entrega: 13 de febrero.** | [Lista 1](listas/lista01.pdf){:target="_blank"}
+08       | 04.02.2025   | Teorema Fundamental de la teoría local de Curvas en R3. | [Kelley-Petersen *Theory of ](aulas/Aula04.pdf){:target="_blank"}
 
 
 # Seminarios
@@ -69,6 +70,8 @@ En este curso tendremos uno o dos seminarios. Se darán detalles más adelante.
 * [J. M. Lee (2013). *Introduction to Smooth Manifolds*.](http://library.lol/main/00D8D81EDF732351D00BF90D16231216){:target="_blank"}
 
 * [J. M. Lee (2018). *Introduction to Riemmanian Manifolds*.](http://library.lol/main/FDE4E270BF68DEA8EC92CCD1D739FBED){:target="_blank"}
+
+* [W. Kelley, A. Peterson (2010). *The Theory of Differential Equations*.](https://libgen.li/ads6cc3b361d2f1430322de2e6379262779IKX4KDZ7){:target="_blank"}
 
 ### Artículos:
 
