@@ -36,7 +36,7 @@ L1       | 30.01.2025   | Lista 1. **Fecha de entrega: 13 de febrero.** | [Lista
 08       | 04.02.2025   | Teorema Fundamental de la teoría local de Curvas en R3. [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Leer Kelley-Peterson, Cap. 8 <br/> Do Carmo, sección 1.6. <br/> Kühnel, sección 2D, pp. 28–32. 
 09       | 06.02.2025   | Curvas en el espacio de Minkowski. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Kühnel, sección 2E, pp. 33-37.
 10       | 11.02.2025   | Propiedades globales de curvas planas. La desigualdad isoperimétrica. [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Do Carmo, sección 1.7. <br/> Kühnel, sección 2F.
-11       |     |    | 
+11       | 13.02.2025   | Índice de rotación. Teorema de los 4 vértices. Teorema de Fabricius-Bjerre. [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Do Carmo, sección 1.7. <br/> Kühnel, sección 2F.
 
 
 # Seminarios
