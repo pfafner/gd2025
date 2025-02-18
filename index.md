@@ -37,6 +37,8 @@ L1       | 30.01.2025   | Lista 1. **Fecha de entrega: 13 de febrero.** | [Lista
 09       | 06.02.2025   | Curvas en el espacio de Minkowski. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Kühnel, sección 2E, pp. 33-37.
 10       | 11.02.2025   | Propiedades globales de curvas planas. La desigualdad isoperimétrica. [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Do Carmo, sección 1.7. <br/> Kühnel, sección 2F.
 11       | 13.02.2025   | Índice de rotación. Teorema de los 4 vértices. Teorema de Fabricius-Bjerre. [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Do Carmo, sección 1.7. <br/> Kühnel, sección 2F.
+12       | 18.02.2025   | Fórmula de Cauchy-Crofton. | 
+11       | 13.02.2025   | Índice de rotación. Teorema de los 4 vértices. Teorema de Fabricius-Bjerre. [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Do Carmo, sección 1.7. <br/> Kühnel, sección 2F.
 
 
 # Seminarios
