@@ -39,6 +39,7 @@ L1       | 30.01.2025   | Lista 1. **Fecha de entrega: 13 de febrero.** | [Lista
 11       | 13.02.2025   | Índice de rotación. Teorema de los 4 vértices. Teorema de Fabricius-Bjerre. [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Do Carmo, sección 1.7. <br/> Kühnel, sección 2F.
 12       | 18.02.2025   | Fórmula de Cauchy-Crofton. | 
 L2       | 18.02.2025   | Lista 2. **Fecha de entrega: 04 de marzo.** | [Lista 2](listas/lista02.pdf){:target="_blank"}
+13       | 20.02.2025   | Superficies regulares. Caracterización de regularidad. | 
 
 
 # Seminarios
