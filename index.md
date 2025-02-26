@@ -40,6 +40,7 @@ L1       | 30.01.2025   | Lista 1. **Fecha de entrega: 13 de febrero.** | [Lista
 12       | 18.02.2025   | Fórmula de Cauchy-Crofton. | 
 L2       | 18.02.2025   | Lista 2. **Fecha de entrega: 04 de marzo.** | [Lista 2](listas/lista02.pdf){:target="_blank"}
 13       | 20.02.2025   | Superficies regulares. Caracterización de regularidad. | 
+13       | 20.02.2025   | Superficies regulares. Caracterización de regularidad. | 
 
 
 # Seminarios
