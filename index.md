@@ -41,7 +41,7 @@ L1       | 30.01.2025   | Lista 1. **Fecha de entrega: 13 de febrero.** | [Lista
 L2       | 18.02.2025   | Lista 2. **Fecha de entrega: 04 de marzo.** | [Lista 2](listas/lista02.pdf){:target="_blank"}
 13       | 20.02.2025   | Superficies regulares. Caracterización de regularidad. [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Do Carmo, sección 2.2.
 14       | 25.02.2025   | Repaso de la definición de superficie regular. | 
-15       | 27.02.2025   | Ejemplos de superficies regulares. <br/> | 
+15       | 27.02.2025   | Ejemplos de superficies regulares. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | 
 
 
 # Seminarios
