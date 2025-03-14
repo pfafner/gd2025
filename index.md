@@ -42,10 +42,12 @@ L2       | 18.02.2025   | Lista 2. **Fecha de entrega: 04 de marzo.** | [Lista 2
 13       | 20.02.2025   | Superficies regulares. Caracterización de regularidad. [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Do Carmo, sección 2.2.
 14       | 25.02.2025   | Repaso de la definición de superficie regular. | 
 15       | 27.02.2025   | Ejemplos de superficies regulares. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Do Carmo, sección 2.2. 
-16       | 04.03.2025   | Forma local de superficies. Ejemplos de superficies regulares II. [Aula 15](aulas/Aula15.pdf){:target="_blank"} | Do Carmo, sección 2.2. 
-17       | 06.03.2025   | Valores críticos y valores regulares de funciones. [Aula 16](aulas/Aula16.pdf){:target="_blank"} | 
-L3       | 06.03.2025   | Lista 3. **Fecha de entrega: 20 de marzo.** | [Lista 3](listas/lista03.pdf){:target="_blank"}
-18       | 11.03.2025   | Funciones diferenciables en superficies. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} |  
+16       | 04.03.2025   | Forma local de las superficies regulares. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | Do Carmo, sección 2.2. 
+17       | 06.03.2025   | Valores regulares. Superficies a partir de valores regulares. [Aula 16](aulas/Aula16.pdf){:target="_blank"} | Do Carmo, sección 2.2. 
+L3       | 06.03.2025   | Lista 3. **Fecha de entrega: 20 de marzo.** | [Lista 3](listas/lista03.pdf){:target="_blank"} 
+18       | 11.03.2025   | Funciones diferenciables sobre superficies. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | Do Carmo, sección 2.3. 
+19       | 13.03.2025   |   | 
+
 
 
 # Seminarios
