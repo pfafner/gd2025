@@ -46,8 +46,8 @@ L2       | 18.02.2025   | Lista 2. **Fecha de entrega: 04 de marzo.** | [Lista 2
 17       | 06.03.2025   | Valores regulares. Superficies a partir de valores regulares. [Aula 16](aulas/Aula16.pdf){:target="_blank"} | Do Carmo, sección 2.2. 
 L3       | 06.03.2025   | Lista 3. **Fecha de entrega: 20 de marzo.** | [Lista 3](listas/lista03.pdf){:target="_blank"} 
 18       | 11.03.2025   | Funciones diferenciables sobre superficies. [Aula 17](aulas/Aula17.pdf){:target="_blank"} | Do Carmo, sección 2.3. 
-19       | 13.03.2025   |   | 
-
+19       | 13.03.2025   | El Plano Tangente. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Do Carmo, sección 2.4. <br/> En el libro de Do Carmo de variedades, se habla un poco sobre el fibrado tangente. 
+19       | 20.03.2025   | Orientabilidad de superficies I. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Kühnel, sección 3A, pp. 63–65. <br/> Do Carmo, sección 2.6.
 
 
 # Seminarios
