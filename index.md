@@ -50,6 +50,7 @@ L3       | 06.03.2025   | Lista 3. **Fecha de entrega: 20 de marzo.** | [Lista 3
 19       | 20.03.2025   | Orientabilidad de superficies I. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Kühnel, sección 3A, pp. 63–65. <br/> Do Carmo, sección 2.6.
 20       | 25.03.2025   | Orientabilidad de superficies II. La banda de Möbius no es orientable. [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Do Carmo, sección 2.6. <br/> En Do Carmo se usa otro modelo para la banda de Möbius.
 L4       | 25.03.2025   | Lista 4. **Fecha de entrega: 10 de abril.** | [Lista 4](listas/lista04.pdf){:target="_blank"} 
+21       | 27.03.2025   | La primera forma fundamental. <br/> | Do Carmo, sección 3.2.
 
 
 # Seminarios
