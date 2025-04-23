@@ -53,8 +53,8 @@ L4       | 25.03.2025   | Lista 4. **Fecha de entrega: 10 de abril.** | [Lista 4
 21       | 27.03.2025   | La primera forma fundamental. <br/> | Do Carmo, sección 3.2.
 22       | 01.04.2025   | Áreas en superficies. <br/> | Do Carmo, sección 3.3.
 23       | 03.04.2025   | La aplicación de Gauss. Segunda forma fundamental. | Do Carmo, sección 3.3.  
-24       | 10.04.2025   | Curvatura media, Curvatura de Gauss.  | Do Carmo, sección 3.3.  
-25       |  |  | 
+24       | 10.04.2025   | Curvatura media, Curvatura de Gauss. Ejemplos. | Do Carmo, sección 3.3.  
+25       | 22.04.2025   | Segunda forma en coordenadas locales. Ecuaciones de Weingarten. |  
 
 
 # Seminarios
