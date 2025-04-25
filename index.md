@@ -55,6 +55,7 @@ L4       | 25.03.2025   | Lista 4. **Fecha de entrega: 10 de abril.** | [Lista 4
 23       | 03.04.2025   | La aplicación de Gauss. Segunda forma fundamental. | Do Carmo, sección 3.3.  
 24       | 10.04.2025   | Curvatura media, Curvatura de Gauss. Ejemplos. | Do Carmo, sección 3.3.  
 25       | 22.04.2025   | Segunda forma en coordenadas locales. Ecuaciones de Weingarten. |  
+26       | 24.04.2025   | El problema de Plateau. Variaciones de superficies. Superficies mínimas. |  
 
 
 # Seminarios
