@@ -50,12 +50,12 @@ L3       | 06.03.2025   | Lista 3. **Fecha de entrega: 20 de marzo.** | [Lista 3
 19       | 20.03.2025   | Orientabilidad de superficies I. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Kühnel, sección 3A, pp. 63–65. <br/> Do Carmo, sección 2.6.
 20       | 25.03.2025   | Orientabilidad de superficies II. La banda de Möbius no es orientable. [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Do Carmo, sección 2.6. <br/> En Do Carmo se usa otro modelo para la banda de Möbius.
 L4       | 25.03.2025   | Lista 4. **Fecha de entrega: 10 de abril.** | [Lista 4](listas/lista04.pdf){:target="_blank"} 
-21       | 27.03.2025   | La primera forma fundamental. <br/> | Do Carmo, sección 3.2.
-22       | 01.04.2025   | Áreas en superficies. <br/> | Do Carmo, sección 3.3.
-23       | 03.04.2025   | La aplicación de Gauss. Segunda forma fundamental. | Do Carmo, sección 3.3.  
-24       | 10.04.2025   | Curvatura media, Curvatura de Gauss. Ejemplos. | Do Carmo, sección 3.3.  
-25       | 22.04.2025   | Segunda forma en coordenadas locales. Ecuaciones de Weingarten. |  
-26       | 24.04.2025   | El problema de Plateau. Variaciones de superficies. Superficies mínimas. |  
+21       | 27.03.2025   | La primera forma fundamental. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Kühnel, sección 3A. <br/> Do Carmo, sección 2.5. 
+22       | 01.04.2025   | Áreas en superficies. <br/> [Aula 22](aulas/Aula22.pdf){:target="_blank"} | Kühnel, sección 3A. <br/> Do Carmo, sección 2.5.
+23       | 03.04.2025   | La aplicación de Gauss. Segunda forma fundamental. [Aula 23](aulas/Aula23.pdf){:target="_blank"} [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Kühnel, sección 3B. <br/> Do Carmo, sección 3.1.
+24       | 10.04.2025   | Curvatura media, Curvatura de Gauss. Ejemplos. [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Kühnel, sección 3B. <br/> Do Carmo, sección 3.1.
+25       | 22.04.2025   | Segunda forma en coordenadas locales. Ecuaciones de Weingarten. [Aula 26](aulas/Aula26.pdf){:target="_blank"} | Kühnel, sección 3B. <br/> Do Carmo, sección 3.1. 
+26       | 24.04.2025   | El problema de Plateau. Variaciones de superficies. Superficies mínimas. [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Kühnel, sección 3D. <br/> Do Carmo, sección 3.5.B.
 
 
 # Seminarios
