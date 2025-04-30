@@ -56,7 +56,7 @@ L4       | 25.03.2025   | Lista 4. **Fecha de entrega: 10 de abril.** | [Lista 4
 24       | 10.04.2025   | Curvatura media, Curvatura de Gauss. Ejemplos. [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Kühnel, sección 3B. <br/> Do Carmo, sección 3.1.
 25       | 22.04.2025   | Segunda forma en coordenadas locales. Ecuaciones de Weingarten. [Aula 26](aulas/Aula26.pdf){:target="_blank"} | Kühnel, sección 3B. <br/> Do Carmo, sección 3.1. 
 26       | 24.04.2025   | El problema de Plateau. Variaciones de superficies. Superficies mínimas. [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Kühnel, sección 3D. <br/> Do Carmo, sección 3.5.B.
-L5       | 29.04.2025   | Lista 4. **Fecha de entrega: 8 de mayo.** | [Lista 5](listas/Lista05.pdf){:target="_blank"} 
+L5       | 29.04.2025   | Lista 4. **Fecha de entrega: 8 de mayo.** | [Lista 5](listas/lista05.pdf){:target="_blank"} 
 
 
 # Seminarios
