@@ -57,6 +57,10 @@ L4       | 25.03.2025   | Lista 4. **Fecha de entrega: 10 de abril.** | [Lista 4
 25       | 22.04.2025   | Segunda forma en coordenadas locales. Ecuaciones de Weingarten. [Aula 26](aulas/Aula26.pdf){:target="_blank"} | Kühnel, sección 3B. <br/> Do Carmo, sección 3.1. 
 26       | 24.04.2025   | El problema de Plateau. Variaciones de superficies. Superficies mínimas. [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Kühnel, sección 3D. <br/> Do Carmo, sección 3.5.B.
 L5       | 29.04.2025   | Lista 4. **Fecha de entrega: 8 de mayo.** | [Lista 5](listas/lista05.pdf){:target="_blank"} 
+26       | 29.04.2025   | Superfícies mínimas II. Representación de Weierstrass. [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Kühnel, sección 3D. 
+27       | 01.05.2025   | Superfícies regladas. Superficies de revolución. [Aula 29](aulas/Aula29.pdf){:target="_blank"} | Do Carmo, sección 3.4. 
+28       | 01.05.2025   | Superfícies en el espacio de Minkowski. [Aula 30](aulas/Aula30.pdf){:target="_blank"} | Kühnel, sección 3E. 
+29       | 06.05.2025   | Geometría intrínseca de superficies. Símbolos de Christoffel. Teorema *Egregium*. [Aula 31](aulas/Aula31.pdf){:target="_blank"} | Do Carmo, sección 4.3. <br/> Kühnel, sección 4C.
 
 
 # Seminarios
