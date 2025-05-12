@@ -75,6 +75,12 @@ L5       | 29.04.2025   | Lista 4. **Fecha de entrega: 8 de mayo.** | [Lista 5](
 04       | 27.05.2025   | Presentaciónes (última semana de mayo y primera semana de junio). 
 05       | 06.06.2025   | Entrega de presentación final. 
 
+## Temas ya elegidos
+
+**No.**  | **Tópicos**                          
+-------- | ------------------------------------ 
+01       | Superficie de Enneper
+
 
 # Referencias
 <div id='id-ref'/>
