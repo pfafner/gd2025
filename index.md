@@ -72,7 +72,7 @@ L5       | 29.04.2025   | Lista 4. **Fecha de entrega: 8 de mayo.** | [Lista 5](
 01       | 05.05.2025   | Temas posibles para seminario. <br/> | [Temas_seminario.pdf](seminarios/Temas_seminario.pdf){:target="_blank"} 
 02       | 15.05.2025   | Máxima fecha para elegir tema. <br/> | 
 03       | 24.05.2025   | Envío de borrador presentación. <br/> | 
-04       | 27.05.2025   | Presentaciónes (última semana de mayo y primera semana de junio). 
+04       | 27.05.2025   | Presentaciones (última semana de mayo y primera semana de junio). 
 05       | 06.06.2025   | Entrega de presentación final. 
 
 ## Temas ya elegidos
