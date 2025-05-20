@@ -84,6 +84,8 @@ L5       | 29.04.2025   | Lista 4. **Fecha de entrega: 8 de mayo.** | [Lista 5](
 03       | Espacios de Einstein 
 04       | Superficie de Catalán
 05       | Helicoide y Catenoide
+06       | Formas diferenciales
+07       | El Teorema de Stokes
 
 
 
