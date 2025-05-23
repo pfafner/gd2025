@@ -62,7 +62,9 @@ L5       | 29.04.2025   | Lista 4. **Fecha de entrega: 8 de mayo.** | [Lista 5](
 28       | 01.05.2025   | Superfícies en el espacio de Minkowski. [Aula 30](aulas/Aula30.pdf){:target="_blank"} | Kühnel, sección 3E. 
 29       | 06.05.2025   | Geometría intrínseca de superficies. Símbolos de Christoffel. Teorema *Egregium*. [Aula 31](aulas/Aula31.pdf){:target="_blank"} | Do Carmo, sección 4.3. <br/> Kühnel, sección 4C. 
 30       | 08.05.2025   | Teorema de Bonnet. Cálculo de símbolos de Christoffel. [Aula 32](aulas/Aula32.pdf){:target="_blank"} | Do Carmo, sección 4.3. <br/> Kühnel, sección 4C. 
-31       | 13.05.2025   | Geodésicas. Caracterización y propiedades. | 
+31       | 13.05.2025   | Vecindad tubular. Definición de geodésicas.  | Do Carmo, sección 4.4. <br/> Montiel Ros, Capítulo 4 (vecindad tubular), Montiel Ros, sección 7.5. 
+32       | 15.05.2025   | Ejemplos de geodésicas. Campos tangentes. La derivada covariante. | Do Carmo, sección 4.4. <br/> Kühnel, sección 4A. 
+33       | 20.05.2025   | Ecuación de las geodésicas. Trasporte paralelo. | Do Carmo, sección 4.4. <br/> Kühnel, sección 4A. 
 
 
 # Seminarios
