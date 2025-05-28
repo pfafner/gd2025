@@ -65,6 +65,7 @@ L5       | 29.04.2025   | Lista 4. **Fecha de entrega: 8 de mayo.** | [Lista 5](
 31       | 13.05.2025   | Vecindad tubular. Definición de geodésicas.  | Do Carmo, sección 4.4. <br/> Montiel Ros, Capítulo 4 (vecindad tubular), Montiel Ros, sección 7.5. 
 32       | 15.05.2025   | Ejemplos de geodésicas. Campos tangentes. La derivada covariante. | Do Carmo, sección 4.4. <br/> Kühnel, sección 4A. 
 33       | 20.05.2025   | Ecuación de las geodésicas. Trasporte paralelo. | Do Carmo, sección 4.4. <br/> Kühnel, sección 4A. 
+34       | 20.05.2025   | Teorema de Gauss-Bonnet local. |  
 
 
 # Seminarios
@@ -78,7 +79,7 @@ L5       | 29.04.2025   | Lista 4. **Fecha de entrega: 8 de mayo.** | [Lista 5](
 04       | 27.05.2025   | Presentaciones (última semana de mayo y primera semana de junio). 
 05       | 06.06.2025   | Entrega de presentación final. 
 
-## Temas ya elegidos
+## Seminarios de fin de curso
 
 **No.**  | **Tópicos**                          
 -------- | ------------------------------------ 
