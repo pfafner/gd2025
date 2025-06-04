@@ -66,7 +66,7 @@ L5       | 29.04.2025   | Lista 4. **Fecha de entrega: 8 de mayo.** | [Lista 5](
 32       | 15.05.2025   | Ejemplos de geodésicas. Campos tangentes. La derivada covariante. | Do Carmo, sección 4.4. <br/> Kühnel, sección 4A. 
 33       | 20.05.2025   | Ecuación de las geodésicas. Trasporte paralelo. | Do Carmo, sección 4.4. <br/> Kühnel, sección 4A. 
 34       | 20.05.2025   | Teorema de Gauss-Bonnet local. |  
-
+35       | 25.05.2025   | Presentación de seminarios: Superficies mínimas. | 
 
 # Seminarios
 <div id='id-semi'/>
