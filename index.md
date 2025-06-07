@@ -85,13 +85,13 @@ L5       | 29.04.2025   | Lista 4. **Fecha de entrega: 8 de mayo.** | [Lista 5](
 
 **Fecha**  | **Tópico**                        | **Expositores** 
 ---------- | --------------------------------- | ------------------ 
-25.05.2025 | Helicoide y Catenoide             |
-25.05.2025 | Superficie de Enneper             |
-27.05.2025 | Superficie de Catalán             | 
-27.05.2025 | Formas diferenciales              | 
-03.05.2025 | Variedades Riemannianas           |
-05.05.2025 | Tensor de Curvatura               |
-05.05.2025 | Teorema de Lovelock               | 
+25.05.2025 | Helicoide y Catenoide             | Joab, Jorge 
+25.05.2025 | Superficie de Enneper             | Montse, Sharis 
+27.05.2025 | Superficie de Catalán             | Gaby, Lou 
+27.05.2025 | Formas diferenciales              | Nicolle, Pablo 
+03.05.2025 | Variedades Riemannianas           | Sofi, Manu 
+05.05.2025 | Tensor de Curvatura               | Ximena, Juan Pablo 
+05.05.2025 | Teorema de Lovelock               | Juan Ignacio 
 
 
 # Referencias
